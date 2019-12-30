@@ -1,1 +1,1 @@
-web: gunicorn myfirst.wsgi на web: gunicorn legfrank:application
+gunicorn myfirst.wsgi:application
