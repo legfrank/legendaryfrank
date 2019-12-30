@@ -1,1 +1,1 @@
-gunicorn myfirst.wsgi:application
+gunicorn myfirst.wsgi.application
